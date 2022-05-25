@@ -1,3 +1,3 @@
 # Tindog
 
-This is an example homepage for the Tindog app.
+This is an example design homepage for app.
